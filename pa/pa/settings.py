@@ -97,3 +97,5 @@ PA_LIST = [("freeCodeCamp", "freeCodeCamp"), ("996icu", "996.ICU"), ("vuejs", "v
 
 MONGO_URI = 'localhost'
 MONGO_DB = 'repolist'
+
+TEST_GUY = 47069551
